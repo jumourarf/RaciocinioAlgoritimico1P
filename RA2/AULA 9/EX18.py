@@ -1,0 +1,2 @@
+dados = {'a': 1, 'b': 2} #imprime a quantidade do par chave e valor
+print(len(dados)) #usa a função len para contar o número de itens no dicionário dados e printa o resultado que é 2, pois existem duas chaves ('a' e 'b') no dicionário.
